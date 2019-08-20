@@ -1,0 +1,8 @@
+github "Carthage/Commandant" "d06c7471ac8747e1bc8e538eb12d44aeb28b08d5"
+github "antitypical/Result" "3.2.4"
+github "drmohundro/SWXMLHash" "4.2.3"
+github "jpsim/SourceKitten" "21da30d12264171a7d92b660aea91d0fea81e823"
+github "jpsim/Yams" "0.3.7"
+github "jspahrsummers/xcconfigs" "40f9bcc63752cdd95deee267d2fbf9da09a9f6f2"
+github "scottrhoyt/SwiftyTextTable" "0.5.0"
+github "yanagiba/swift-ast" "v0.3.5"

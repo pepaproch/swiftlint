@@ -1,0 +1,6 @@
+<!-- Custom rules -->
+<rule>
+    <repositoryKey>SwiftLint</repositoryKey>
+    <key>path_traversal</key>
+</rule>
+

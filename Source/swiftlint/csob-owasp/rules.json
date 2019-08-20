@@ -1,0 +1,8 @@
+{
+    "key": "path_traversal",
+    "category": "SwiftLint",
+    "name": "Path Traversal",
+    "description": "Possible path traversal vulnerability. Check file path sanitation.",
+    "severity": "CRITICAL",
+    "type": "VULNERABILITY"
+}

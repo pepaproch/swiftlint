@@ -1,0 +1,14 @@
+<!-- Custom rules -->
+<chc>
+    <rule-repo>SwiftLint</rule-repo>
+    <rule-key>path_traversal</rule-key>
+    <prop>
+        <key>remediationFunction</key>
+        <txt>CONSTANT_ISSUE</txt>
+    </prop>
+    <prop>
+        <key>offset</key>
+        <val>15</val>
+        <txt>min</txt>
+    </prop>
+</chc>
